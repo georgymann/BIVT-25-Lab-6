@@ -3,6 +3,7 @@
 //     [TestClass]
 //     public sealed class PurpleTest
 //     {
+
 //         Lab6.Purple _main = new Lab6.Purple();
 //         const double E = 0.0001;
 //         Data _data = new Data();
@@ -2015,4 +2016,5 @@
 //         }
 //     }
 // }
+
 
